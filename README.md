@@ -17,11 +17,9 @@
 
 ## 版本
 
-Apache 2.0
+Laravel v10.48.4  
 
-php 8.2.12
-
-mariaDB 10.7
+Materialize v1.0.0  
 
 ## 授權條款
 
