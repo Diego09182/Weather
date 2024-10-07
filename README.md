@@ -11,9 +11,26 @@
 
 使用Laravel串接天氣API
 
-## 安裝 
+## 安裝
 
-安裝XAMPP並放置於htdocs資料夾
+git clone https://github.com/Diego09182/Weather
+
+安裝 composer
+
+安裝所需依賴:  
+`composer install`
+
+配置環境變數:  
+`cp .env.example .env`
+
+生成應用程式密鑰:  
+`php artisan key:generate`
+
+啟動開發伺服器:  
+`php artisan serve`
+
+編譯前端資產  
+`npm run build`
 
 ## 版本
 
